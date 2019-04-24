@@ -1,2 +1,1 @@
-re: this word is not existing in these files
-fr: this word is not existing in these files
+JSON: this word is not existing in these files
