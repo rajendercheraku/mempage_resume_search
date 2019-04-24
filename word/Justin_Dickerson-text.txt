@@ -1,0 +1,231 @@
+Justin Dickerson
+SENIOR ANDROID ENGINEER
+
+Phone:  412-474-2489
+Email:  jndckrsn03@gmail.com
+
+About Me
+5 years of experience in Software Engineering
+5 years of experience iOS Mobile App Development
+5 published Apps in the App Store
+
+•	Experience with embedded local storage solutions such as SQLite.
+•	Comfortable providing mentorship and training Junior developers.
+•	Coordinate team of software engineers to complete required tasks.
+•	Experience developing mobile to cloud and mobile to embedded device communications
+•	Experience in the use several version control tools (Subversion SVN, Source Safe VSS, GIT, GitHub).
+•	Google Play Store certified publisher, building ASO campaigns and keyword lookups.
+•	Experience developing highly efficient Java code and view layouts and the ability to diagnose performance bottleneck.
+•	Implemented the RESTful data consumption using Retrofit with an OkHttp client, GSON and Jackson converters and a custom interceptor.
+•	Designed various applications using optimal architectural design patterns such as Model View Controller (MVC), Model View Presenter (MVP), Model View View Model (MVVM).
+•	Excellent in modeling and translating business models and requirements to use cases and diagrams.
+•	Knowledgeable of the latest analytics tools for mobile applications such as Google Analytics, Localytics, Mixpanel, Answers, Flurry, Crashlytics, NewRelic, etc.
+•	Efficiently consumed and managed RESTful web services with XML and JSON formats.
+•	Experience with Android performance profiling, memory and power management and optimizations.
+•	Solid understanding of data models and data access architecture and optimization.
+•	Requirement gathering specialist and mobile architecture documentation specialist Proficient in integrating external APIs such as Facebook, Instagram, Twitter, LinkedIn, PayPal, Google Maps and Google Charts, YouTube.
+•	Collaborated with Jelly Bean, KitKat, Lollipop, Marshmallow and Nougat with material design and latest features.
+•	Familiar with Java patterns: Singleton, Facade, Command, Builder, Integrator, Visitor, Proxy, . . 
+•	Design, develop, and document application and framework code in Java and other object-oriented programming languages.
+
+Technical Skills Summary
+Methods
+Material Design
+Agile/Scrum, Test Driven Development (TDD)
+
+Issue Tracking
+JIRA, Jenkins, Atlassian Suite
+
+Design Patterns
+MVC, MVP, MVVM, Singleton, Dependency Injection, View Holder, Builder, Adapter
+
+Testing
+Espresso, Robolectric, Mokito, Junit, Selenium & Appium
+
+Web Services: 
+JSON, REST, SOAP, XML, AJAX
+
+Software
+MS Office (Word, Excel, PowerPoint, Paint), Adobe Photoshop ,Maven, Gradle
+
+Data Related Tools
+NFC (Near field communication) technology, Firebase, MySQL, SQLite
+
+Misc. Technologies
+Active Directory, Dreamweaver, CMS, Microsoft Office desktop/365, Photoshop, Java, and UX
+
+Android Libraries, Frameworks and APIs
+Jersey Library, open source libraries, Google Maps API, Volley, Junit, Google Places, Retrofit, RecyclerView Animator, Location Services, FloatingActionButton, Google Cloud Messaging, Schematic, REST, Bluetooth Low Energy, NineOldAndroids, JobScheduler, Push Notifications, Espresso, Google Play Services
+	Version Control
+Git, SVN, GitHub, SourceTree, Tower, BitBucket
+
+Native Java Frameworks
+Java Swing, Ajax Swing, GWT
+
+Programming Languages
+Java, Linux, JavaScript/HTML/CSS, SQL, XML, C, C++, C#.NET, Python
+
+IDEs
+Android Studio, Eclipse, Visual Studio
+
+Change Management
+Git/GitHub, SVN, Jenkins, Travis CI
+
+Operating Systems
+Android, Unix/Linux, Mac OS, Windows, IOS
+
+API
+Facebook, Twitter, Google Maps, RESTful, Volley, Picasso, Glide, YouTube, Retrofit, ButterKnife
+
+Web Development
+Ajax, Bootstrap 3, CSS3, HTML5, Javascript, and jQuery, Ruby
+
+Front-End UI Development
+Custom android views classes and components, Android adapter views like Listview, Recyclerview, Gridview and Gallery, Customized List views, Gallery widgets
+
+Experience
+Senior Android Developer
+DICK’S Sporting Goods, Coraopolis, PA
+January 2018 - Present
+
+ 	DICK’S Sporting Goods
+https://play.google.com/store/apps/details?id=dsgui.android
+Worked on this Android shopping app for ecommerce and in-store shopping.  This Android app also lets users manage the store credit card called scorebard and earn rewards.  A unique feature is the integration with fitness trackers like Apple Health, Garmin, Fitbit and MapMyRun.  ScoreCard points are applied by the app for achieving activity goals on integrating with fitness apps.
+
+•	Refactored Java code to Kotlin for existing applications using Android Studio.
+•	Created custom List Views, custom Layouts, custom Action bars as per the mockups provided.
+•	Integrated location based services using Google Maps API to display locations of the nearest stores.
+•	Used Android Studio to develop the screens for the application using MVP design pattern.
+•	Used Retrofit in RESTful web service consumption with RxJava.
+•	Supported multiple screen Android devices using Fragments and width-aware layouts.
+•	Worked on animations in the applications like view animations, frame animations, tween animations etc.
+•	Implemented Firebase using Firebase Cloud Messaging for user notifications.
+•	Created new features programmatically in Android Studio using Kotlin.
+•	Implemented the user interface by using Compound View, Custom View, RecyclerView, View Pager and Tab Layout.
+•	Improved the layout rendering by saving and optimizing the view hierarchy in all the resources.
+•	Integrated payment processing using proprietary APIs.
+•	Used SharedPreferences to provide consistency with local key-value pairs.
+•	Worked with GitHub version control and participated in merges and commits.
+•	Employed continuous integration methodology using BitRise.io
+•	Implemented Firebase Crash Reporting in debugging and troubleshooting.
+•	Developed a lot of business logic according to technical assignment.
+•	Utilized RxJava for multithreading capabilities with IntentServices, Handlers, Threads.
+•	Participated in Scrum meetings and project planning and coordinated the status sessions.
+•	Created supporting home screen widgets to display specials based on user preferences.
+•	A key resource for layout and UI work utilizing XML, Views, WebView, List View, Menu Item,
+•	Image loading on Android handled using Glide library.
+
+Android Application Developer
+AT&T, Atlanta, GA
+October 2016 – January 2018
+
+ 	AT&T U-verse
+https://play.google.com/store/apps/details?id=com.att.android.uverse&hl=en-gb
+Worked on this live streaming app with can stream from anywhere without using mobile data.  This Android app also features both live and on-demand programming, and the app homepage offers easy UI/UX with personalization and favorites fright on the home screen.
+
+•	Implemented native iOS solutions that communicate with RESTful web services.
+•	Collaborated with offshore teams.
+•	Use of SQLite database schema to persistent data storage for every schedule in a local cache.
+•	Implemented Firebase for a realtime database, and Firebase Push Notifications.
+•	Implemented orientation changes in the Android video app
+•	Designed and developed functionality between user interactions and delegated back to the server using RESTful web services and JSON parsing and use of the GSON library to deserialize JSON information.
+•	Used sync adapters to load changed data from server and to send modified data to server from app.
+•	Implemented OAuth and authentication tokens.
+•	Implemented ExoPlayer to incorporate video playback functionality and structures to support different media sources by extending ExoPlayer.
+•	Used Lint to manually scan projects code to insure code is using best coding practices.
+•	Created custom Lint xml to scan for items otherwise not checked by a standard Lint scan.
+•	Implemented MVP design pattern in designing and development of this project.
+•	Configured analytic tools for evaluation: Firebase Crashlytics, Leak Canary, Robotium.
+•	Followed Agile Methodology in analyze, define, and document the application which will support functional and business requirements.
+•	Worked with live video streaming library to deploy live streaming media to the Android mobile app.
+•	Used OOPS concepts for designing application modules e.g OnlinePlayer, OfflinePlayer were two implementations of the Player interface.
+•	Used GIT to control the source code by creating different tags, branches & commits according to the various releases made.
+•	Tested on various devices using Jenkins Continuous Integration server and emulators.
+•	Integrated VideoView for video promos about upcoming events.
+
+Android Mobile Developer
+Cerner Corporation, Kansas City, MO
+August 2015 - October 2016
+
+ 	Cerner CareAware Connect
+https://play.google.com/store/apps/details?id=com.careawareconnect.android.messaging
+
+CareAware Connect Messenger for Android supports clinical mobility by providing secure communication, simplifying care-team collaboration, and supporting effective alert management. With a focus on workflow that supports voice communication, text messaging and alerting on a single device, CareAware Connect Messenger unifies clinical communications across roles and venues.
+
+•	Implemented native iOS solutions that communicate with RESTful web services.
+•	Collaborated with offshore teams.
+•	Implemented VOIP functionality using native Android and VoCal VoIP SDK which uses standard algorithms for VOIP processing in a modular design.
+•	Implemented functionality with Google Cloud Messaging and Android Push Notifications.
+•	Worked on secure authorization using Authorization and Authentication tokens to restrict access.
+•	Worked on business logic using discrete modules and using different design patterns based on the needs of the module (singleton, builder, proxy, visitor, etc.)
+•	Developed modular workflows in the Android app using Activities and Fragments.
+•	Implemented Dexguard to protect the Android app from reverse engineering and hacking.
+•	Used GitHub private repositories with standard workflows as a version control software.
+•	The team followed daily Scrums and bi-weekly Springs.  Assisted project manager with Sprint Planning.
+•	Supported quality efforts and best practices through code reviews and refactoring as needed to proactively troubleshoot.
+•	Supported the design, development, testing and implementation of  application.
+•	Extensively utilized AsyncTask, Thread, Handler, Services to provide smooth UI experience.
+•	Consumed back-end services for communications through RxJava and Retrofit.
+•	Optimized Android mobile app functionality through use of Material Design Guidelines, Espresso, IcePick, Junit, Shared Preferences, EventBus, and RxJava.
+•	Worked in different phases of the project cycle like design, development and testing.
+•	Use of SQLite database schema to persistent data storage for every schedule.
+•	Used Dagger library to apply binding in Android views.
+
+Android Mobile Apps Developer
+Money Mailer, Cypress, CA
+August 2014 – August 2015
+
+ 	Money Mailer
+https://play.google.com/store/apps/details?id=com.moneymailer.money_mailer
+This project involved major update to the Ui/UX -user interface to help find coupons quickly and easily in just two taps.  Find offers nearby, by ZIP code, current location or using mile radius. Displays business information simultaneously with ready access to map and directions.  Redeem at checkout using the app screen.
+
+•	Worked with AsyncTask to decouple application to improve performance by freeing up main thread.
+•	Communicate with RESTful web services using OkHTTP.
+•	Supported multiple screen resolutions implementing different layouts for portrait and landscape.
+•	Regular interaction of RESTful API design calls to populate the UI on the app using GET, PUT, POST and DELETE.
+•	Involved in checking the network status before making any network call.
+•	Participated in complete Software Development Life Cycle (SDLC) for proper analysis, development, testing, deployment and enhancement of the code.
+•	Used Google Maps API and Google Location server to ping the coordinates of the user and get feedback with the application.
+•	Contributed in production release deployment by certifying release features, monitoring production logs and fixing production issues on demand.
+•	Collaborated with various teams to quickly comprehend existing Android application architecture, functionality, features and issues and how these affect new project requirement.
+•	Implemented Android app functionality using native and third party technologies such as TestFairy, Picasso, Custom Views, Facebook API, Twitter API, Urban Airship, Dagger, Butter Knife.
+•	Implemented automated testing with Robotium and Mockito for writing unit tests.
+•	Part of the Android development team working on Object Oriented implementation of architecture and design using Java coding.
+•	Participated in complete Software Development Life Cycle (SDLC) for proper analysis, development, testing, deployment and enhancement of the Android codebase.
+
+Jr. Android Developer
+Hotels.com, Dallas, TX
+September 2013 – August 2014
+
+ 	Hotels.com
+https://play.google.com/store/apps/details?id=com.hcom.android
+Worked with current Android team on this travel app; great for vacation planning. App features search and find deals and choose to pay online or at the hotel.  The app also has a built-in loyalty reward feature.
+
+•	Implemented native Android solutions that communicate with RESTful web services.
+•	Collaborated with offshore teams.
+•	Handling multi-threads to receive and update calls from web server (Service and Broadcast Receiver) 
+•	Used Frame Layout method to show background images of the app. 
+•	Worked in an Agile environment delivering in short sprints. 
+•	Implemented local database using SQLite and also have good knowledge on code optimization. 
+•	Involved in designing the logical flow for the application for different components. 
+•	Followed-up by testing user interface, errors with all possible inputs, debugging several applications using ADB.
+•	Implemented Location Listener to show exact location on Google Maps. 
+•	Review and analyze the business requirements and technical specifications
+•	Built compatibility with Android version 4.4 and up.
+•	Integrated Google Analytics into the application to track the usage of application, number of people, number of downloads etc.
+•	Integrated the Cache support to manage and retain the messages on device to provide offline capability within the app. 
+•	Provided subsequent releases which included feature changes, enhancements and bug fixes.
+•	Integrated with some distribution services - HockeyApp/TestFairy.
+•	Worked on debugging the application using Log cat, DDMS.
+•	Tested the application on multiple devices with different OS versions and screen sizes to ensure compatibility.
+•	Hands on experience in using DDMS (Dalvik Debug Monitor Server) and traceview for debugging and detecting memory leaks.
+
+Education
+CareerFoundry, Berlin, DE 
+Web Development 
+
+Eastern Michigan University, Ypsilanti, MI
+Master of Arts in Health Economics
+
+University of Toledo, Toledo, OH
+Bachelor of Science in Pharmaceutical Sciences

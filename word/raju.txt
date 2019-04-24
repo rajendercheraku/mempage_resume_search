@@ -1,0 +1,15 @@
+HAL
+Android framework
+Camera
+Audio
+Android platform
+Android calling
+RIL
+Linux drivers
+Intel
+Qualcom
+MSM
+C++
+ADB
+Debugging
+WebRTC
