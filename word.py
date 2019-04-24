@@ -12,6 +12,7 @@ for i in range(words):
     finding_words.__setitem__(x, list())
 
 for file_path in file_list:
+    print(file_path)
     with open(file_path) as f_input:
         for line in f_input:
             for i in words_list:

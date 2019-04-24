@@ -1,2 +1,2 @@
-hy: this word is not existing in these files
-nu: this word is not existing in these files
+re: this word is not existing in these files
+fr: this word is not existing in these files
