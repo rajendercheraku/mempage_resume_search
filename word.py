@@ -16,8 +16,11 @@ for file_path in file_list:
     with open(file_path) as f_input:
         for line in f_input:
             for i in words_list:
-                if i in line:
+                if i.upper() in line:
                     finding_words[i].append(f_input.name)
+                elif i.lower() in line:
+                      finding_words[i].append(f_input.name)
+                     
 with open("output_file.txt" ,"w") as f:
     for key,values in finding_words.items():
         f.write(key +": ")

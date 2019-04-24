@@ -1,2 +1,1 @@
-hai: F:\searchin skills\word\raju2.txt,
-JSON: F:\searchin skills\word\Justin_Dickerson-text.txt,
+json: F:\searchin skills\word\Justin_Dickerson-text.txt,
